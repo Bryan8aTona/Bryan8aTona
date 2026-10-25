@@ -1,59 +1,31 @@
-# Bryan Ochoa | Ingeniero en Computación
-
-**Full Stack Developer | React & Django**
-
-Enfocado en el desarrollo de arquitecturas cliente-servidor limpias y escalables. Me especializo en conectar experiencias de usuario fluidas en el frontend con lógicas de negocio robustas en el backend.
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-* **Frontend:** React, Next.js, Vite, JavaScript, Tailwind CSS.
-* **Backend:** Python, Django, Django REST Framework, Node.js, C/C++.
-* **Bases de Datos:** PostgreSQL, MySQL, SQLite.
-* **Arquitectura & Herramientas:** APIs REST, Microservicios, Git, Docker, Testing (unittest/mock).
-
-<br>
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="assets/banner.svg" width="100%" alt="Bryan Ochoa · Desarrollador Full Stack · Ingeniería en Computación, UAM Cuajimalpa" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan8a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Bryan8aTona@hotmail.com"><img src="https://img.shields.io/badge/Correo-F2A541?style=for-the-badge&logo=maildotru&logoColor=0D1B2A" alt="Correo" /></a>
+</p>
 
-### 📫 Contacto
+## Sobre mí
 
-<a href="https://www.linkedin.com/in/bryan8a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+Desarrollador full stack. Construyo aplicaciones web completas: interfaz, API, base de datos y despliegue, con pruebas automatizadas y documentación.
+
+📍 Ciudad de México · Abierto a oportunidades
+
+## Proyecto destacado
+
+<a href="https://github.com/Bryan8aTona/pantera-al-acecho">
+  <img src="assets/pantera.svg" width="100%" alt="Pantera al Acecho. Servicio social, UAM Cuajimalpa, 2026. Herramienta educativa que ayuda a los docentes a enseñar de forma más fácil y dinámica: convierte el repaso en un juego por equipos, con el contenido de su propia materia. Máquina de estados pura, 124 pruebas, CI, reglas de seguridad en Firestore, carga optimizada y documentación." />
 </a>
-<a href="mailto:Bryan8aTona@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<p align="center">
+  <a href="https://pantera-al-acecho.web.app"><img src="https://img.shields.io/badge/▶_Jugar_en_línea-F2A541?style=for-the-badge" alt="Jugar en línea" /></a>
+  <a href="https://github.com/Bryan8aTona/pantera-al-acecho"><img src="https://img.shields.io/badge/Ver_código-0D1B2A?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
+</p>
+
+## Stack
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Lenguajes: Python, JavaScript, TypeScript, Java, C, C++, HTML, CSS. Frameworks: React, Next.js, Django, Django REST Framework, Node.js, Tailwind. Bases de datos: PostgreSQL, MySQL, SQLite, Firebase, Prisma. Pruebas: Vitest, pytest. Herramientas: Git, GitHub Actions, Docker, Vite." />
+</p>

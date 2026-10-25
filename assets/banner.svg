@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Bryan Ochoa, desarrollador full stack">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#14304a"/>
+    </linearGradient>
+    <pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#p)"/>
+  <rect x="64" y="62" width="8" height="136" rx="4" fill="#f2a541"/>
+  <text x="100" y="118" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#e8eef4">Bryan Ochoa</text>
+  <text x="102" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="600" fill="#f2a541">Desarrollador Full Stack</text>
+  <text x="102" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#93a8bb">Ingeniería en Computación · UAM Cuajimalpa</text>
+  <text x="1110" y="190" text-anchor="end" font-family="Consolas,'SF Mono',Menlo,monospace" font-size="150" font-weight="700" fill="#f2a541" opacity="0.12">&lt;/&gt;</text>
+</svg>
